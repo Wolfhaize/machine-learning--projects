@@ -1,8 +1,10 @@
-## Group Q Members
+
 
 # MOBILE MONEY LOAN ELIGIBILITY AND LOAN AMOUNT PREDICTION
 
 ## Hybrid Unsupervised and Supervised Machine Learning Project
+
+### Group Q Members
 
 
 | Name                        | Registration Number |
