@@ -1,5 +1,10 @@
 ## Group Q Members
 
+# MOBILE MONEY LOAN ELIGIBILITY AND LOAN AMOUNT PREDICTION
+
+## Hybrid Unsupervised and Supervised Machine Learning Project
+
+
 | Name                        | Registration Number |
 |-----------------------------|---------------------|
 | Mwizerwa Timothy            | 24/U/24330/PS       |
